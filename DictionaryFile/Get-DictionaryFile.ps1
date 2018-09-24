@@ -52,7 +52,7 @@ cc
 
 .EXAMPLE
 
-Get-DictionaryFile -Path "C:\Scripts\DictionaryFile.txt" | ForEach-Object {$_ + "a"}
+PS C:\> Get-DictionaryFile -Path "C:\Scripts\DictionaryFile.txt" | ForEach-Object {$_ + "a"}
 aaa
 aba
 aca
@@ -65,7 +65,7 @@ cca
 
 .EXAMPLE
 
-"C:\Scripts\DictionaryFile.txt" | Get-DictionaryFile | Where-Object {$_ -like "*b*"}
+PS C:\> "C:\Scripts\DictionaryFile.txt" | Get-DictionaryFile | Where-Object {$_ -like "*b*"}
 ab
 ba
 bb

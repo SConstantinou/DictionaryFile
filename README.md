@@ -10,10 +10,10 @@ generated passwords and import a dictionary file that you have already created.
 
 ### Commands
 
-* Get-PaswordNumber
-* Get-PasswordCombinations
-* Get-DictionaryFile
-* New-DictionaryFile
+* [Get-PaswordNumber](https://www.sconstantinou.com/get-passwordnumber)
+* [Get-PasswordCombination](https://www.sconstantinou.com/get-passwordcombination)
+* [Get-DictionaryFile](https://www.sconstantinou.com/get-dictionaryfile)
+* [New-DictionaryFile](https://www.sconstantinou.com/new-dictionaryfile)
 
 ---
 
@@ -35,12 +35,8 @@ generated passwords and import a dictionary file that you have already created.
 
 ---
 
-### Requierments
+### More Information
 
-Coming Soon
+For more information please check
 
----
-
-### Examples
-
-Coming Soon
+[https://www.sconstantinou.com/powershell-module-dictionaryfile-v-2-0](https://www.sconstantinou.com/powershell-module-dictionaryfile-v-2-0)
